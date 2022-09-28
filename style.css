@@ -1,36 +1,39 @@
 .hotdog{
     background-color:blanchedalmond;
-    font-size: 48px;
+   
     text-align: center;
 }
 .cheese{
     text-align: center;
     background-color: cornflowerblue;
     color: white;
-    font-size: 48px;
+    
 
 }
 .dog{
     text-align: center;
     background-color: crimson;
     color: white;
-    font-size: 48px;
+    
 }
 .cat{
     text-align: center;
     background-color: tomato;
     color: white;
-    font-size: 48px;
+   
 }
 .hot{
     text-align: center;
     background-color:gold;
     color: white;
-    font-size: 48px;
+    
 }
 .hat{
     text-align: center;
     background-color:rgb(121, 179, 33);
     color: white;
-    font-size: 48px;
+    
+}
+.table{
+    color:white;
 }
